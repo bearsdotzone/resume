@@ -52,5 +52,5 @@ bears@bears.zone</center>
 
 # Education
 2015-2019 *Rensselaer Polytechnic Institute, Troy, NY*
-Majoring in Computer Science
+* Majored in Computer Science
 * Completed coursework in Network Programming, Large-Scale Programming, and Computational Social Processes.
