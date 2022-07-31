@@ -28,26 +28,34 @@ bears@bears.zone</center>
 # Projects
 ## Dot Matrix Printer Refurbishment
 2022-Present
-* Goal - Learn about print servers and hardware deployment.
+* Learning Goal - Learn about print servers and hardware deployment.
 * Restore to usefulness otherwise inoperable hardware.
 * Study the mechanics of impact printers.
 
 ## Internet League Blaseball Fans Web Ring
+*Open Source* - *Next.js* - *Continuous Integration* - *Community Focus*
+
 2022-Present
-* Goal - Study web development technologies, continuous integration, and lambda functions.
+* Learning Goal - Study web development technologies, continuous integration, and lambda functions.
 * Host, secure, and develop a Next.js based community forum.
 * Introduce others to the fundamentals of web development and self expression on the internet.
 
+## Platter Minecraft Mod
+*Open Source* - *40,000 Downloads* - *Java*
+
+2020-Present
+* Learning Goal - Understand interacting with a legacy codebase, receive user feedback and provide support, develop community involvement.
+* 
 ## Proxmox Homelab
 2015-Present
-* Goal - Learn virtualization, clustering, container, storage, and networking technologies.
+* Learning Goal - Gain experience with virtualization, clustering, container, storage, and networking technologies.
 * Serve files from a ZFS pool, maintain 3-2-1 backup policies on all devices. 
 * Host web and game servers, providing a professional level of service to various internet communities.
 * Consists of a Proxmox hypervisor managing Docker images, network attached storage, routing, and virtual machines for standalone applications.
 
 ## VyOS Home Network
 2020-Present
-* Goal - Learn about networking while keeping my home network secure and functional.
+* Learning Goal - Gain understanding of networking while keeping my home network secure and functional.
 * Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network. 
 
 # Education
