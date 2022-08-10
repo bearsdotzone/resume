@@ -40,6 +40,14 @@ bears@bears.zone</center>
 * Host, secure, and develop a Next.js based community forum.
 * Introduce others to the fundamentals of web development and self expression on the internet.
 
+## Platter Minecraft Mod
+*Open Source* - *40,000 Downloads* - *Java*
+
+2020-Present
+* Learning Goal - Understand interacting with a legacy codebase, receive user feedback and provide support, develop community involvement.
+* Design and develop a feature addition that fits seamlessly with existing content.
+* Gain deeper understanding of the systems and technology that power a favorite pastime.
+
 ## Proxmox Homelab
 2015-Present
 * Learning Goal - Gain experience with virtualization, clustering, container, storage, and networking technologies.
