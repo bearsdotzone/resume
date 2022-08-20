@@ -27,6 +27,8 @@ bears@bears.zone</center>
 
 # Projects
 ## Dot Matrix Printer Refurbishment
+*Environmentally Conscious* - *Legacy Hardware*
+
 2022-Present
 * Learning Goal - Learn about print servers and hardware deployment.
 * Restore to usefulness otherwise inoperable hardware.
@@ -41,7 +43,7 @@ bears@bears.zone</center>
 * Introduce others to the fundamentals of web development and self expression on the internet.
 
 ## Platter Minecraft Mod
-*Open Source* - *40,000 Downloads* - *Java*
+*40,000 Downloads* - *Java* - *Open Source*
 
 2020-Present
 * Learning Goal - Understand interacting with a legacy codebase, receive user feedback and provide support, develop community involvement.
@@ -49,6 +51,8 @@ bears@bears.zone</center>
 * Gain deeper understanding of the systems and technology that power a favorite pastime.
 
 ## Proxmox Homelab
+*Hypervisor* - *Open Source* - *Reliability*
+
 2015-Present
 * Learning Goal - Gain experience with virtualization, clustering, container, storage, and networking technologies.
 * Serve files from a ZFS pool, maintain 3-2-1 backup policies on all devices. 
@@ -56,6 +60,8 @@ bears@bears.zone</center>
 * Consists of a Proxmox hypervisor managing Docker images, network attached storage, routing, and virtual machines for standalone applications.
 
 ## VyOS Home Network
+*CLI* - *Reliability*
+
 2020-Present
 * Learning Goal - Gain understanding of networking while keeping my home network secure and functional.
 * Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network. 
