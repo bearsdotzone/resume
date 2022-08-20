@@ -26,6 +26,14 @@ bears@bears.zone</center>
 * Led my team to state-wide award and recognition.
 
 # Projects
+## Blog
+*Ghost Blog* - *Open Source* - *Self-Hosted*
+
+2020-Present
+* Learning Goal - Develop technical and expository writing skills.
+* Convey technical information in a digestible format for non-technical readers.
+* Explore in depth topics of interest.
+
 ## Dot Matrix Printer Refurbishment
 *Environmentally Conscious* - *Legacy Hardware*
 
