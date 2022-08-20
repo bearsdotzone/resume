@@ -26,6 +26,11 @@ bears@bears.zone</center>
 * Led my team to state-wide award and recognition.
 
 # Projects
+## Blog
+2020-Present
+* Learning Goal - Develop technical and expository writing skills.
+* TODO
+
 ## Dot Matrix Printer Refurbishment
 2022-Present
 * Learning Goal - Learn about print servers and hardware deployment.
