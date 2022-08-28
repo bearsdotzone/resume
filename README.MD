@@ -1,5 +1,6 @@
 # <center>Bears Abney</center>
-<center>System Administrator --- Full Stack Developer
+<center>
+<!-- System Administrator --- Full Stack Developer -->
 
 bears@bears.zone</center>
 # Experience
@@ -11,6 +12,12 @@ bears@bears.zone</center>
 * Utilized remote control software to resolve issues with client systems.
 * Deployed new user profiles, accounts, and equipment.
 
+## Floor Staff
+2019-2019 *Regal Cinemas Crossgates Mall, Albany, NY*
+* Served customers efficiently and diligently at the concessions counter.
+* Prioritized effectively during peak times.
+* Cleaned thoroughly work areas as part of opening and closing duties.
+
 ## Help Desk Consultant
 2017-2019 *Rensselaer Polytechnic Institute, Troy, NY*
 * Troubleshot and fixed software issues with university supported applications.
@@ -19,13 +26,13 @@ bears@bears.zone</center>
 * Employed a ticketing system to triage user requests and escalate as necessary.
 * Documented technical procedures and maintained a user knowledge base.
 
-## US Cyber Patriot
+<!-- ## US Cyber Patriot
 2012-2015 *San Antonio, TX*
 * Implemented instruction in cybersecurity and networking principles and best practices by Rackspace employees.
 * Mentored junior teams, teaching the OSI model, network security, and Cisco networking.
-* Led my team to state-wide award and recognition.
+* Led my team to state-wide award and recognition. -->
 
-# Projects
+<!-- # Projects
 ## Blog
 *Ghost Blog* - *Open Source* - *Self-Hosted*
 
@@ -72,7 +79,7 @@ bears@bears.zone</center>
 
 2020-Present
 * Learning Goal - Gain understanding of networking while keeping my home network secure and functional.
-* Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network. 
+* Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network.  -->
 
 # Education
 2015-2019 *Rensselaer Polytechnic Institute, Troy, NY*
