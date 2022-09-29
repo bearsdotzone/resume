@@ -1,5 +1,5 @@
 # <center>Bears Abney</center>
-<center>System Administrator --- Full Stack Developer
+ <center><!--System Administrator --- Full Stack Developer -->
 
 bears@bears.zone</center>
 # Projects
@@ -43,14 +43,14 @@ bears@bears.zone</center>
 * Design and develop a feature addition that fits seamlessly with existing content.
 * Gain deeper understanding of the systems and technology that power a favorite pastime.
 
-## Proxmox Homelab
+<!-- ## Proxmox Homelab
 *Hypervisor* - *Open Source* - *Reliability*
 
 2015-Present
 * Learning Goal - Gain experience with virtualization, clustering, container, storage, and networking technologies.
 * Serve files from a ZFS pool, maintain 3-2-1 backup policies on all devices. 
 * Host web and game servers, providing a professional level of service to various internet communities.
-* Consists of a Proxmox hypervisor managing Docker images, network attached storage, routing, and virtual machines for standalone applications.
+* Consists of a Proxmox hypervisor managing Docker images, network attached storage, routing, and virtual machines for standalone applications. -->
 
 <!-- ## VyOS Home Network
 *CLI* - *Reliability*
