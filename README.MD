@@ -1,5 +1,5 @@
 # <center>Bears Abney</center>
- <center><!--System Administrator --- Full Stack Developer -->
+ <center>System Administrator --- Full Stack Developer
 
 bears@bears.zone</center>
 # Projects
@@ -32,7 +32,7 @@ bears@bears.zone</center>
 
 2022-Present
 * Learning Goal - Study web development technologies, continuous integration, and serverless functions.
-* Host, secure, and develop a Next.js based community forum.
+* Host, secure, and develop a Next.js based community forum, using CI/CD pipelines to ensure dependency freshness and consistent container deployment.
 * Introduce others to the fundamentals of web development and self expression on the internet with HTML and web design workshops.
 
 ## Platter Minecraft Mod
@@ -41,7 +41,7 @@ bears@bears.zone</center>
 2020-Present
 * Learning Goal - Understand interacting with a legacy codebase, receive user feedback and provide support, develop community involvement.
 * Design and develop a feature addition that fits seamlessly with existing content, ensuring proper integration and functionality with existing systems.
-* Gain deeper understanding of the systems and technology that power a favorite pastime.
+* Gain deeper understanding of the systems and technology that power a favorite pastime through API usage and analysis of existing codebase.
 
 <!-- ## Proxmox Homelab
 *Hypervisor* - *Open Source* - *Reliability*
