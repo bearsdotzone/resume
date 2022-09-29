@@ -16,8 +16,8 @@ bears@bears.zone</center>
 
 2022-Present
 * Learning Goal - Develop full stack skills, learn new web frameworks
-* Secure user data and privacy
-* 
+* Ensure data security and privacy for the end user
+* Provide a functional and intuitive interface for management and search.
 
 <!-- ## Dot Matrix Printer Refurbishment
 *Environmentally Conscious* - *Legacy Hardware*
@@ -31,7 +31,7 @@ bears@bears.zone</center>
 *Open Source* - *Next.js* - *Continuous Integration* - *Community Focus*
 
 2022-Present
-* Learning Goal - Study web development technologies, continuous integration, and lambda functions.
+* Learning Goal - Study web development technologies, continuous integration, and serverless functions.
 * Host, secure, and develop a Next.js based community forum.
 * Introduce others to the fundamentals of web development and self expression on the internet.
 
@@ -62,11 +62,12 @@ bears@bears.zone</center>
 # Education
 2015-2019 *Rensselaer Polytechnic Institute, Troy, NY*
 * Majored in Computer Science
-* Completed coursework in Network Programming, Large-Scale Programming, and Computational Social Processes.
+* Completed coursework in Network Programming, Large-Scale Programming, Computational Social Processes, and Algorithms.
 
 ## Projects
 * TFTP Server - Using C, developed understanding of sockets and network communication.
 * Synthesized Poetry - Using Tensorflow, developed understanding of machine learning techniques.
+* Operating Systems - Using C, learned the types of parallelism and IPC, gained experience with MPI.
 
 # Experience
 
