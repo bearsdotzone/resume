@@ -16,8 +16,8 @@ bears@bears.zone</center>
 
 2022-Present
 * Learning Goal - Develop full stack skills, learn new web frameworks
-* Ensure data security and privacy for the end user
-* Provide a functional and intuitive interface for management and search.
+* Ensure data security and privacy for the end user by utilizing the OAuth standard, authenticated endpoints, and database row security.
+* Provide a functional and intuitive interface for management and search through in-memory responsive indexing.
 
 <!-- ## Dot Matrix Printer Refurbishment
 *Environmentally Conscious* - *Legacy Hardware*
@@ -33,14 +33,14 @@ bears@bears.zone</center>
 2022-Present
 * Learning Goal - Study web development technologies, continuous integration, and serverless functions.
 * Host, secure, and develop a Next.js based community forum.
-* Introduce others to the fundamentals of web development and self expression on the internet.
+* Introduce others to the fundamentals of web development and self expression on the internet with HTML and web design workshops.
 
 ## Platter Minecraft Mod
 *40,000 Downloads* - *Java* - *Open Source*
 
 2020-Present
 * Learning Goal - Understand interacting with a legacy codebase, receive user feedback and provide support, develop community involvement.
-* Design and develop a feature addition that fits seamlessly with existing content.
+* Design and develop a feature addition that fits seamlessly with existing content, ensuring proper integration and functionality with existing systems.
 * Gain deeper understanding of the systems and technology that power a favorite pastime.
 
 <!-- ## Proxmox Homelab
