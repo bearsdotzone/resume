@@ -12,7 +12,8 @@ bears@bears.zone</center>
 * Explore in depth topics of interest. -->
 
 ## Paper Trail
-*Collection Management System* - *TypeScript* - *SvelteKit* - *Postgres* - *Redis* - *Open Source*
+*Collection Management System* - *TypeScript* - *SvelteKit* - *Redis* - *Postgres*<br/>
+*github.com/bearsdotzone/paper-trail*
 
 Sep 2022-Present
 * A web based management tool for Magic the Gathering Trading Card collections.
@@ -28,7 +29,7 @@ Sep 2022-Present
 * Study the mechanics of impact printers. -->
 
 ## Internet League Blaseball Fans Web Ring
-*Open Source* - *Next.js* - *Continuous Integration* - *Community Focus*
+*Next.js* - *Continuous Integration* - *Community Focus* - *github.com/bearsdotzone/blasebears*
 
 Mar 2022-April 2022
 * A modern incarnation of a web ring, connects fanmade websites pertaining to Blaseball.
@@ -37,7 +38,7 @@ Mar 2022-April 2022
 * Introduced others to the fundamentals of web development and self expression on the internet with HTML and web design workshops.
 
 ## Platter Minecraft Mod
-*40,000 Downloads* - *Java* - *Open Source*
+*40,000 Downloads* - *Java* - *github.com/bearsdotzone/platter*
 
 May 2020-Present
 * A user made feature addition for Minecraft Java Edition.
