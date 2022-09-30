@@ -12,12 +12,12 @@ bears@bears.zone</center>
 * Explore in depth topics of interest. -->
 
 ## Paper Trail
-*Inventory Management System* - *TypeScript* - *SvelteKit* - *Postgres* - *Redis* - *Open Source*
+*Collection Management System* - *TypeScript* - *SvelteKit* - *Postgres* - *Redis* - *Open Source*
 
-2022-Present
-* Learning Goal - Develop full stack skills, learn new web frameworks
-* Ensure data security and privacy for the end user by utilizing the OAuth standard, authenticated endpoints, and database row security.
-* Provide a functional and intuitive interface for management and search through in-memory responsive indexing.
+Sep 2022-Present
+* A web based management tool for Magic the Gathering Trading Card collections.
+* Expanding full-stack development skills by implementing an intuitive and functional interface for management and search through in-memory responsive indexing.
+* Developing deeper knowledge of data security and privacy by implementing OAuth functionality, authenticated endpoints, and database row security.
 
 <!-- ## Dot Matrix Printer Refurbishment
 *Environmentally Conscious* - *Legacy Hardware*
@@ -30,18 +30,20 @@ bears@bears.zone</center>
 ## Internet League Blaseball Fans Web Ring
 *Open Source* - *Next.js* - *Continuous Integration* - *Community Focus*
 
-2022-Present
-* Learning Goal - Study web development technologies, continuous integration, and serverless functions.
-* Host, secure, and develop a Next.js based community forum, using CI/CD pipelines to ensure dependency freshness and consistent container deployment.
-* Introduce others to the fundamentals of web development and self expression on the internet with HTML and web design workshops.
+Mar 2022-April 2022
+* A modern incarnation of a web ring, connects fanmade websites pertaining to Blaseball.
+* Studied web development technologies by creating a Next.Js based community forum and serverless function infrastructure.
+* Furthered understanding of developer operations by creating continuous integration and continuous deployment pipelines.
+* Introduced others to the fundamentals of web development and self expression on the internet with HTML and web design workshops.
 
 ## Platter Minecraft Mod
 *40,000 Downloads* - *Java* - *Open Source*
 
-2020-Present
-* Learning Goal - Understand interacting with a legacy codebase, receive user feedback and provide support, develop community involvement.
-* Design and develop a feature addition that fits seamlessly with existing content, ensuring proper integration and functionality with existing systems.
-* Gain deeper understanding of the systems and technology that power a favorite pastime through API usage and analysis of existing codebase.
+May 2020-Present
+* A user made feature addition for Minecraft Java Edition.
+* Gaining knowledge of a legacy codebase through aggregation of community resources and independent investigations.
+* Expanding understanding of game systems and creating a seamless integration between new features and old.
+* Developing community management skills by working with the extended community both on issue resolution and the management of infrastructural changes.
 
 <!-- ## Proxmox Homelab
 *Hypervisor* - *Open Source* - *Reliability*
