@@ -5,12 +5,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: BaileyJM02/markdown-to-pdf@v1.2.0
+      - uses: mkrakowitzer/actions-makepdfs@master
         with:
-          input_path: './README.MD'
+          markdown_dir: ''
           output_dir: out
-          build_html: false
-          build_pdf: true
       - uses: actions/upload-artifact@v1
         with:
           name: pdf
