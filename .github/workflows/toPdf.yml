@@ -1,0 +1,16 @@
+name: Create PDF
+on: [push]
+jobs:
+  Create-PDF:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: BaileyJM02/markdown-to-pdf@v1.2.0
+        with:
+          input_path: README.MD
+          output_dir: out
+          build_html: false
+      - uses: actions/upload-artifact@v1
+        with:
+          name: pdf
+          path: out
