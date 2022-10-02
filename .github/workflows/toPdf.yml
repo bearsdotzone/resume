@@ -4,10 +4,10 @@ jobs:
   Create-PDF:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       - uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
-          input_path: ''
+          input_path: '.'
           output_dir: out
           build_html: false
           build_pdf: true
