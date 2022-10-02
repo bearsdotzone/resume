@@ -50,6 +50,14 @@ bears@bears.zone</center>
 * Host, secure, and develop a Next.js based community forum.
 * Introduce others to the fundamentals of web development and self expression on the internet.
 
+## Paper Trail
+*Inventory Management System* - *TypeScript* - *SvelteKit* - *Postgres* - *Redis* - *Open Source*
+
+2022-Present
+* Learning Goal - Develop full stack skills, learn new web frameworks
+* Ensure data security and privacy for the end user
+* Provide a functional and intuitive interface for management and search.
+
 ## Platter Minecraft Mod
 *40,000 Downloads* - *Java* - *Open Source*
 
