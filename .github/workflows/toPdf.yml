@@ -10,6 +10,7 @@ jobs:
           input_path: .
           output_dir: out
           build_html: false
+          build_pdf: true
       - uses: actions/upload-artifact@v1
         with:
           name: pdf
