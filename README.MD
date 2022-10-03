@@ -33,7 +33,7 @@ Sep 2022-Present
 
 Mar 2022-April 2022
 * A modern incarnation of a web ring, connects fanmade websites pertaining to Blaseball.
-* Studied web development technologies by creating a Next.Js based community forum and serverless function infrastructure.
+* Grew by creating a Next.Js based community forum and serverless function infrastructure.
 * Furthered understanding of developer operations by creating continuous integration and continuous deployment pipelines.
 * Introduced others to the fundamentals of web development and self expression on the internet with HTML and web design workshops.
 
@@ -69,7 +69,7 @@ May 2020-Present
 
 ## Projects
 * TFTP Server - Using C, developed understanding of sockets and network communication.
-* Synthesized Poetry - Using Tensorflow, developed understanding of machine learning techniques.
+* Synthesized Poetry - Using Tensorflow, gained experience with machine learning techniques.
 * Operating Systems - Using C, learned the types of parallelism and IPC, gained experience with MPI.
 
 # Experience
