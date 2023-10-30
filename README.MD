@@ -25,6 +25,9 @@ bears@bears.zone</center>
 * Mentored junior teams, teaching the OSI model, network security, and Cisco networking.
 * Led my team to state-wide award and recognition.
 
+<!-- When generating the pdf, insert a page break here. -->
+<!-- <div style="break-after:page"></div> -->
+
 # Projects
 ## Blog
 *Ghost Blog* - *Open Source* - *Self-Hosted*
@@ -52,6 +55,7 @@ bears@bears.zone</center>
 
 ## Paper Trail
 *Inventory Management System* - *TypeScript* - *SvelteKit* - *Postgres* - *Redis* - *Open Source*
+*github.com/bearsdotzone/paper-trail*
 
 2022-Present
 * Learning Goal - Develop full stack skills, learn new web frameworks
@@ -59,7 +63,7 @@ bears@bears.zone</center>
 * Provide a functional and intuitive interface for management and search.
 
 ## Platter Minecraft Mod
-*40,000 Downloads* - *Java* - *Open Source*
+*100,000 Downloads* - *Java* - *Open Source* - *github.com/bearsdotzone/platter*
 
 2020-Present
 * Learning Goal - Understand interacting with a legacy codebase, receive user feedback and provide support, develop community involvement.
