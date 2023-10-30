@@ -83,6 +83,10 @@ bears@bears.zone</center>
 * Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network. 
 
 # Education
+2022-2023 *Excelsior University, Albany, NY*
+* Associates in Liberal Arts
+* Completed coursework in ethics and professional development.
+
 2015-2019 *Rensselaer Polytechnic Institute, Troy, NY*
 * Majored in Computer Science
 * Completed coursework in Network Programming, Large-Scale Programming, and Computational Social Processes.
