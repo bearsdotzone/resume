@@ -37,21 +37,21 @@ bears@bears.zone</center>
 * Convey technical information in a digestible format for non-technical readers.
 * Explore in depth topics of interest.
 
-## Dot Matrix Printer Refurbishment
+<!-- ## Dot Matrix Printer Refurbishment
 *Environmentally Conscious* - *Legacy Hardware*
 
 2022-Present
 * Learning Goal - Learn about print servers and hardware deployment.
 * Restore to usefulness otherwise inoperable hardware.
-* Study the mechanics of impact printers.
+* Study the mechanics of impact printers. -->
 
-## Internet League Blaseball Fans Web Ring
+<!-- ## Internet League Blaseball Fans Web Ring
 *Open Source* - *Next.js* - *Continuous Integration* - *Community Focus*
 
-2022-Present
+2022-2023
 * Learning Goal - Study web development technologies, continuous integration, and lambda functions.
 * Host, secure, and develop a Next.js based community forum.
-* Introduce others to the fundamentals of web development and self expression on the internet.
+* Introduce others to the fundamentals of web development and self expression on the internet. -->
 
 ## Paper Trail
 *Inventory Management System* - *TypeScript* - *SvelteKit* - *Postgres* - *Redis* - *Open Source*
@@ -79,12 +79,12 @@ bears@bears.zone</center>
 * Host web and game servers, providing a professional level of service to various internet communities.
 * Consists of a Proxmox hypervisor managing Docker images, network attached storage, routing, and virtual machines for standalone applications.
 
-## VyOS Home Network
+<!-- ## VyOS Home Network
 *CLI* - *Reliability*
 
-2020-Present
+2020-2023
 * Learning Goal - Gain understanding of networking while keeping my home network secure and functional.
-* Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network. 
+* Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network.  -->
 
 # Education
 2022-2023 *Excelsior University, Albany, NY*
