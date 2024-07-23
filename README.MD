@@ -1,5 +1,5 @@
 # <center>Bears Abney</center>
-<center>System Administrator
+<center>Software Developer
 
 bears@bears.zone</center>
 # Experience
@@ -88,9 +88,10 @@ bears@bears.zone</center>
 * Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network.  -->
 
 # Education
-2024-Present *Cognizant Skills Accelerator*
-* Studying full-stack Java development
-* Curriculum includes unit testing and mocking with JUnit and Mockito as well as the Spring Framework and aspect-oriented programming
+2024-2024 *Cognizant Skills Accelerator*
+* Certified Cognizant Java Full Stack Developer
+* Completed coursework in aspect-oriented programming, parallel computing, and REST and Web APIs
+* Created projects using Spring Framework, JUnit, and Mockito
 
 2022-2023 *Excelsior University, Albany, NY*
 * Associates in Liberal Arts
