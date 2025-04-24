@@ -4,7 +4,7 @@
 bears@bears.zone</center>
 # Experience
 ## AI Development Specialist
-Present *Outlier, Remote*
+2024-Present *Outlier, Remote*
 * Craft programming prompts and responses in order to train AI models
 * Demonstrate attention to detail and communication skills
 
@@ -100,7 +100,14 @@ Technologies: Docker, REST, SQL
 * Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network.  -->
 
 # Education
-2024-2024 *Cognizant Skills Accelerator*
+2025 *Revature Pre-Employment Program*
+- Developed programming skills in Java, SQL, RESTful API Construction and Spring Framework
+- Implemented project work including construction of functional REST APIs using Test Driven Development methodologies
+- Completed 108 Coding Activities
+- Showcased understanding of concepts through fourteen (14) evaluations
+- Leverage Java APIs to write algorithms to solve various challenges and problem sets
+
+2024 *Cognizant Skills Accelerator*
 * Certified Cognizant Java Full Stack Developer
 * Completed coursework in aspect-oriented programming, parallel computing, and REST and Web APIs
 * Created projects using Spring Framework, JUnit, and Mockito
