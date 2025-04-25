@@ -16,20 +16,20 @@ Excellent attention to detail, including grammar, punctuation, and style guideli
 
 **IT Support Specialist**\
 2021-2021 *Thomas J Henry Law, San Antonio, TX*
-* Monitored, triaged, and resolved software and hardware incidents
-* Maintained detailed documentation and implemented policy
-* Utilized remote control software to resolve issues with client systems
+* Followed organizational procedure, monitoring, triaging, and resolving software and hardware incidents
+* Maintained detailed documentation and ensured system functionality and adherence to standards
 * Managed the lifecycle of many tickets simultaneously
 * Collaborated to resolve issues across departments
+<!-- * Utilized remote control software to resolve issues with client systems -->
 
 **Help Desk Consultant**\
 2017-2019 *Rensselaer Polytechnic Institute, Troy, NY*
-* Troubleshot and fixed computer and networking issues on various platforms and devices
-* Provided phone support and customer service to remote users
-* Developed proficiency in resolving common issues, hastening issue resolution
-* Employed Zendesk to triage and escalate user requests
-* Documented technical procedures and maintained a knowledge base for users
-* Communicated technical issues to both technical and non-technical stakeholders
+* Evaluated and fixed computer and networking issues on various platforms and devices
+* Provided phone support and customer service to remote users, guiding users through technical issue resolutions
+* Developed working knowledge in resolving common issues, hastening issue resolution
+<!-- * Communicated technical issues to both technical and non-technical stakeholders -->
+<!-- * Documented technical procedures and maintained a knowledge base for users -->
+<!-- * Employed Zendesk to report and document user issues -->
 
 <!-- ## US Cyber Patriot
 2012-2015 *San Antonio, TX*
@@ -101,12 +101,13 @@ Technologies: Docker, REST, SQL -->
 * Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network.  -->
 
 ## Education
-<!-- 2025 *Revature Pre-Employment Program*
-- Developed programming skills in Java, SQL, RESTful API Construction and Spring Framework
+2025 *Revature Pre-Employment Program*
+- Developed programming skills in Java, SQL, and Spring Framework
 - Implemented project work including construction of functional REST APIs using Test Driven Development methodologies
-- Completed 108 Coding Activities
-- Showcased understanding of concepts through fourteen (14) evaluations
-- Leverage Java APIs to write algorithms to solve various challenges and problem sets -->
+- Developed and utilized unit testing suites to verify feature functionality
+<!-- - Leveraged Java APIs to write algorithms to solve various challenges and problem sets -->
+<!-- - Completed 108 Coding Activities
+- Showcased understanding of concepts through fourteen (14) evaluations -->
 
 <!-- 2024 *Cognizant Skills Accelerator*
 * Certified Cognizant Java Full Stack Developer
@@ -117,6 +118,6 @@ Technologies: Docker, REST, SQL -->
 * Associates in Liberal Arts
 * Completed coursework in ethics and professional development
 
-2015-2018 *Rensselaer Polytechnic Institute, Troy, NY*
+<!-- 2015-2018 *Rensselaer Polytechnic Institute, Troy, NY*
 * Majored in Computer Science
-* Completed coursework in communication and network programming
+* Completed coursework in communication and network programming -->
