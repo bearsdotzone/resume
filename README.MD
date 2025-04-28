@@ -1,5 +1,5 @@
 # <center>Bears Abney</center>
-<center>IT Support Specialist
+<center>System Administrator
 
 bears@bears.zone</center>
 ## Experience
@@ -16,26 +16,25 @@ Excellent attention to detail, including grammar, punctuation, and style guideli
 
 **IT Support Specialist**\
 2021-2021 *Thomas J Henry Law, San Antonio, TX*
-* Followed organizational procedure, monitoring, triaging, and resolving software and hardware incidents
-* Maintained detailed documentation and ensured system functionality and adherence to standards
-* Managed the lifecycle of many tickets simultaneously
-* Collaborated to resolve issues across departments
-<!-- * Utilized remote control software to resolve issues with client systems -->
+* Monitored, categorized, and resolved hardware and software incidents
+* Maintained detailed documentation
+* Ensured the adherence of systems to policy
+* Utilized remote control software to resolve issues with client systems
+* Collaborated with third-parties to monitor and address issues and outages
+<!-- * Managed the lifecycle of many tickets simultaneously -->
 
 **Help Desk Consultant**\
 2017-2019 *Rensselaer Polytechnic Institute, Troy, NY*
-* Evaluated and fixed computer and networking issues on various platforms and devices
-* Provided phone support and customer service to remote users, guiding users through technical issue resolutions
-* Developed working knowledge in resolving common issues, hastening issue resolution
+* Troubleshot and fixed software, hardware, and networking issues
+* Collaborated across departments to prioritize and resolve internal and external issues
+* Provided phone support and customer service to remote users
+* Maintained systems, to include installing operating system and security updates
+<!-- * Developed working knowledge in resolving common issues, hastening issue resolution -->
 <!-- * Communicated technical issues to both technical and non-technical stakeholders -->
 <!-- * Documented technical procedures and maintained a knowledge base for users -->
 <!-- * Employed Zendesk to report and document user issues -->
 
-<!-- ## US Cyber Patriot
-2012-2015 *San Antonio, TX*
-* Implemented cybersecurity and networking principles and best practices
-* Mentored junior teams, teaching the OSI model, network security, and Cisco networking
-* Led a team to state-wide award and recognition -->
+
 
 <!-- When generating the pdf, insert a page break here. -->
 <!-- <div style="break-after:page"></div> -->
@@ -101,10 +100,10 @@ Technologies: Docker, REST, SQL -->
 * Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network.  -->
 
 ## Education
-2025 *Revature Pre-Employment Program*
+<!-- 2025 *Revature Pre-Employment Program*
 - Developed programming skills in Java, SQL, and Spring Framework
 - Implemented project work including construction of functional REST APIs using Test Driven Development methodologies
-- Developed and utilized unit testing suites to verify feature functionality
+- Developed and utilized unit testing suites to verify feature functionality -->
 <!-- - Leveraged Java APIs to write algorithms to solve various challenges and problem sets -->
 <!-- - Completed 108 Coding Activities
 - Showcased understanding of concepts through fourteen (14) evaluations -->
@@ -113,11 +112,17 @@ Technologies: Docker, REST, SQL -->
 * Certified Cognizant Java Full Stack Developer
 * Completed coursework in aspect-oriented programming, parallel computing, and REST and Web APIs
 * Created projects using Spring Framework, JUnit, and Mockito -->
-
-2022-2023 *Excelsior University, Albany, NY*
+**Excelsior University**\
+2022-2023 *Albany, NY*
 * Associates in Liberal Arts
 * Completed coursework in ethics and professional development
 
 <!-- 2015-2018 *Rensselaer Polytechnic Institute, Troy, NY*
 * Majored in Computer Science
 * Completed coursework in communication and network programming -->
+
+**US Cyber Patriot**\
+2012-2015 *San Antonio, TX*
+* Secured Windows and Linux servers using cybersecurity best practices
+* Mentored junior teams, teaching the OSI model, network security, and Cisco networking
+* Led a team to state-wide award and recognition
