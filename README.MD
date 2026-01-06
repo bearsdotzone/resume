@@ -1,3 +1,6 @@
+<!-- `python3 -m http.server` -->
+<link rel="stylesheet" href="styles.css">
+
 # <center><b>Bears Abney</b></center>
 <center>Software Developer</center>
 <center>bears@bears.zone - <a href="http://github.com/bearsdotzone"><em>github.com/bearsdotzone</em></a></center>
