@@ -6,7 +6,7 @@
 <center>bears@bears.zone - <a href="http://github.com/bearsdotzone"><em>github.com/bearsdotzone</em></a></center>
 
 ## Experience
-2024-Present **AI Development Specialist** *Outlier, Remote*
+2024 **AI Development Specialist** *Outlier, Remote*
 * Craft programming prompts and responses in order to train AI models
 * Demonstrate attention to detail and communication skills
 
@@ -40,8 +40,8 @@ Excellent attention to detail, including grammar, punctuation, and style guideli
 <!-- When generating the pdf, insert a page break here. -->
 <!-- <div style="break-after:page"></div> -->
 ## Projects
-<!-- Programming Languages: Java, TypeScript -->
-<!-- Technologies: Docker, REST, SQL -->
+Languages: HTML, Java, TypeScript\
+Technologies: Docker, Git, REST, SQL, Svelte
 <!-- ## Blog
 *Ghost Blog* - *Open Source* - *Self-Hosted*
 
@@ -76,7 +76,7 @@ Excellent attention to detail, including grammar, punctuation, and style guideli
 * Provide a functional and intuitive interface for management and search -->
 
 2020-Present **Platter (Minecraft Add-on)**\
-*Over 150,000 Downloads* - *Java* - *Open Source* - *github.com/bearsdotzone/platter*
+*Over 175,000 Downloads* - *Java* - *Open Source* - *github.com/bearsdotzone/platter*
 * Project aim - Gain experience working within a large, legacy codebase, receive user feedback, and provide support
 * Design and develop a feature addition that fits seamlessly with existing content
 * Using Gradle, develop, test, and deploy software to multiple platforms
@@ -103,13 +103,13 @@ Excellent attention to detail, including grammar, punctuation, and style guideli
 2025-Present **Arizona State University** *Remote*
 - Pursuing a Bachelor's in Computer Science
 - 4.0 GPA
-- Completed coursework in Data Science
+- Completed coursework in data science and programming languages
 
 2025 **Revature Pre-Employment Program** *Remote*
 - Reinforced programming skills in Java, SQL, and Spring Framework
 - Completed project work including design and construction of functional REST APIs using Test Driven Development methodologies
-- Learned agile methodologies and the software development lifecycle
-- Discussed SQL database design, optimization, and normalization
+- Learned Agile methodologies and the software development lifecycle
+- Discussed relational database design, optimization, and normalization
 <!-- - Reinforced understanding of object-oriented programming principles -->
 <!-- - Leveraged Java APIs to write algorithms to solve various challenges and problem sets -->
 <!-- - Completed 108 Coding Activities
