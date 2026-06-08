@@ -50,22 +50,6 @@ Technologies: Docker, Git, REST, SQL, Svelte
 * Convey technical information in a digestible format for non-technical readers.
 * Explore in depth topics of interest. -->
 
-<!-- ## Dot Matrix Printer Refurbishment
-*Environmentally Conscious* - *Legacy Hardware*
-
-2022-Present
-* Learning Goal - Learn about print servers and hardware deployment.
-* Restore to usefulness otherwise inoperable hardware.
-* Study the mechanics of impact printers. -->
-
-<!-- ## Internet League Blaseball Fans Web Ring
-*Open Source* - *Next.js* - *Continuous Integration* - *Community Focus*
-
-2022-2023
-* Learning Goal - Study web development technologies, continuous integration, and lambda functions.
-* Host, secure, and develop a Next.js based community forum.
-* Introduce others to the fundamentals of web development and self expression on the internet. -->
-
 <!-- ## Paper Trail
 *Inventory Management System* - *TypeScript* - *SvelteKit* - *SQL* - *Docker* - *Open Source*
 *github.com/bearsdotzone/paper-trail*
@@ -82,22 +66,6 @@ Technologies: Docker, Git, REST, SQL, Svelte
 * Using Gradle, develop, test, and deploy software to multiple platforms
 * Manage a Git repository, tracking issues, pull requests, and feature branches
 <!-- * Gain deeper understanding of the systems and technology that power a favorite pastime -->
-
-<!-- ## Proxmox Homelab
-*Hypervisor* - *Open Source* - *Reliability*
-
-2015-Present
-* Learning Goal - Gain experience with virtualization, clustering, container, storage, and networking technologies
-* Serve files from a ZFS pool, maintain 3-2-1 backup policies on all devices.
-* Host web and game servers, providing a professional level of service to various internet communities
-* Consists of a Proxmox hypervisor managing Docker images, network attached storage, routing, and virtual machines for standalone applications -->
-
-<!-- ## VyOS Home Network
-*CLI* - *Reliability*
-
-2020-2023
-* Learning Goal - Gain understanding of networking while keeping my home network secure and functional.
-* Consists of a VyOS based software router including a DMZ to separate out public traffic from private, zone based firewalls, and DNS, DHCP, VPN, and NAT services for the local network.  -->
 
 ## Education
 2025-Present **Arizona State University** *Remote*
@@ -122,14 +90,9 @@ Technologies: Docker, Git, REST, SQL, Svelte
 - Developed and utilized unit testing suites to verify feature functionality
 
 2022-2023 **Excelsior University** *Albany, NY*
-* Associates in Liberal Arts
+* Associate's in Liberal Arts
 * Completed coursework in ethics and professional development
 
 <!-- 2015-2018 **Rensselaer Polytechnic Institute** *Troy, NY*
 * Majored in Computer Science
 * Completed coursework in network programming and large-scale programming and testing -->
-
-<!-- 2012-2015 **US Cyber Patriot** *San Antonio, TX*
-* Secured Windows and Linux servers using cybersecurity best practices
-* Mentored junior teams, teaching the OSI model, network security, and Cisco networking
-* Led a team to state-wide award and recognition -->
